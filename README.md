@@ -23,7 +23,7 @@ npm start
 ![Screenshot (299)](https://github.com/rachit3014/Collegedunia-Frontend-Assignment/assets/84663169/45fa2ea1-4a42-48f1-ba12-c532d66ed143)
 
 
-# hosted url:- "https://github.com/rachit3014/Collegedunia-Frontend-Assignment/deployments/github-pages"
+# hosted url:- https://github.com/rachit3014/Collegedunia-Frontend-Assignment/deployments/github-pages
 
 
 In the project directory, you can run:
