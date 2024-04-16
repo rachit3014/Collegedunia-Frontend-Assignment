@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Collegedunia-Frontend-Assignment/static/css/main.0017e1e0.css",
+    "main.js": "/Collegedunia-Frontend-Assignment/static/js/main.2371539c.js",
+    "index.html": "/Collegedunia-Frontend-Assignment/index.html",
+    "main.0017e1e0.css.map": "/Collegedunia-Frontend-Assignment/static/css/main.0017e1e0.css.map",
+    "main.2371539c.js.map": "/Collegedunia-Frontend-Assignment/static/js/main.2371539c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0017e1e0.css",
+    "static/js/main.2371539c.js"
+  ]
+}
