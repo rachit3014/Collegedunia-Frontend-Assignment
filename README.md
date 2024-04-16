@@ -24,7 +24,7 @@ npm start
 
 
 
-# hosted url:- (https://rachit3014.github.io/Collegedunia-Frontend-Assignment/)
+# hosted url:- "https://rachit3014.github.io/Collegedunia-Frontend-Assignment/"
 
 
 In the project directory, you can run:
